@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CrudApp</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nils Paredes</string>
+    <string name="nav_header_subtitle">nils.parsa@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Productos</string>
+    <string name="menu_gallery">Categorias</string>
+    <string name="menu_slideshow">Marcas</string>
+    <string name="menu_tools">U. de medida</string>
+    <string name="menu_share">Información</string>
+    <string name="menu_send">Cerrar sesión</string>
+
+    <string name="ha_pulsado_sobre">"Ha pulsado sobre "</string>
+    <string name="editar">"Editar "</string>
+    <string name="eliminar">"Eliminar "</string>
+    <string name="elija_una_opcion">Elija una opción</string>
+
+</resources>
